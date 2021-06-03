@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech of Mr. Iohn White, counsellor at law, made in the Commons House of Parliament, concerning episcopacy</title>
+            <author>White, John, 1590-1645.</author>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65747</idno><idno type="EEBO-CITATION">8246082</idno>
+  <idno type="VID">41157</idno>
+  <idno type="EEBO-PROQUEST">2264207973</idno>
+  
+            <idno type="STC">Wing W1774</idno>
+            <idno type="STC">ESTC R24549</idno>
+            <idno type="OCLC">08246082</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1244:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech of Mr. Iohn White, counsellor at law, made in the Commons House of Parliament, concerning episcopacy</title>
+                  <author>White, John, 1590-1645.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Episcopacy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41157:1"/>
+            <pb facs="tcp:41157:1"/>
+            <p>A SPEECH <hi>OF</hi> M<seg rend="sup">r</seg>. Iohn White Counsellor at <hi>Law,</hi> made in the Commons House of PARLIAMENT.</p>
+            <p>
+               <hi>Concerning</hi> EPISCOPACY.</p>
+            <p>LONDON. Printed in the yeare, 1641</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:41157:2"/>
+            <pb n="3" facs="tcp:41157:2"/>
+            <head>A Speech of Master JOHN WHITE Coun<g ref="char:EOLhyphen"/>sellour, concerning <hi>Episcopacy.</hi>
+            </head>
+            <p>EPiscopacy as it stands in this Kingdome, comprehends in it <hi>in linea recta,</hi> these foure degrees, the Deacon, the Presbyter, the Bishop and the Archbishop, Every Archbishop wades through every of these ordinarily.</p>
+            <p>Of the first and last we have no <hi>vestigium</hi> in the holy Scriptures. This Deacon may Preach and Baptize and helpe the Presbyter to administer the Lords Supper, but may not consecrate the ele<g ref="char:EOLhyphen"/>ments in the Lords Supper:<note n="*" place="margin">Book of ordering of Deecons.</note> contrary to the Scriptures, by which Preach and Baptize, is a full commission for the exercise of all the ministeriall function. <hi>Mat.</hi> 28.19.</p>
+            <p>The Deacon mentioned in holy Scripture, is the same in office with our Church-Warden, to looke to the Church goods and the <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oore, <hi>Acts</hi> 6. 1 <hi>Tim.</hi> 3.</p>
+            <p>The Presbyter is of all hands acknowledged to be, <hi>Iure Divino.</hi>
+            </p>
+            <p>The Bishop is considerable in respect of his traine, and se<g ref="char:EOLhyphen"/>condly, in respect of himselfe.</p>
+            <p>His traine are these, first the Deane and Chapter (called Pre<g ref="char:EOLhyphen"/>bends, <hi>quia praeberent auxilium Episcopa</hi>) and were originally ordain<g ref="char:EOLhyphen"/>ed for his counsell to advise him in difficulties in Religion, and to advise him in, and consent unto his dispositions of his posses<g ref="char:EOLhyphen"/>sion, <hi>Cok.</hi> r. 3. Deane and Chapter of <hi>Norwiches</hi> case.</p>
+            <p>Secondly, the Archdeacon is the <hi>oculus Episcopi</hi> to discover and punish offences spirituall and Ecclesiasticall within his limits, <hi>&amp; manus Episcopi,</hi> to present unto him such as are to be made Deacons and Presbyters, and to induct such as he admits and institutes into Benefices.</p>
+            <p>Thirdly, his Chancellors Vicars generall, Commissaries, Of<g ref="char:EOLhyphen"/>ficials, Surrogates Registers, Promoters, and others belonging to his Cathedrals.</p>
+            <p>These be all meerely human, and may be taken away without offence to God or conscience, if there appeare just cause for it.</p>
+            <p>The Bishop in respect of himselfe is considerable in his Baro<g ref="char:EOLhyphen"/>ny and temporalities and his spiritualities.</p>
+            <p>The first, is meerely <hi>Ex gratia Regis,</hi> and in this Kingdome be<g ref="char:EOLhyphen"/>gan <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. of <hi>William</hi> the conquerer:<note n="*" place="margin">Case of tenures 35 <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> And by vertue hereof they have had place in the house of Peeres in Parliament. 7. H. 8. 1846 <hi>Ro.</hi> it is resolved by all the Iudges of <hi>England,</hi> that the King may hold his Parliament by himselfe his temporall Lords and Com<g ref="char:EOLhyphen"/>mons without any Bishop, for a Bishop hath not any place in Parliament by reason of his spiritualities, but meerly by reason of his Barony, and accordingly Acts of Parliament have been made 2. <hi>Rieh.</hi> 3. c. 3. and at divers other times.</p>
+            <pb n="4" facs="tcp:41157:3"/>
+            <p> They have usurped the name of spirituall Lords, but of late, and were first called so, 16 <hi>Rich.</hi> 2. c. 1. in our statutes.</p>
+            <p>By his spiritualties, I meane those wherein he is more then a Presbyter, and therein I consider his authority over Presbyters by the Oath of canonical obedience by which he may command them to collect tenths granted in convocation, &amp;c. 20. H. 6.13. p. 25.</p>
+            <p>Secondly, his Office which is partly judiciall, and partly mi<g ref="char:EOLhyphen"/>nisteriall, judiciall, by which he is Iudge in his Courts of all matters Ecclesiasticall and spirituall within his Diocesse, <hi>Cok. Rep.</hi> 8. <hi>Trollops c.</hi> Secondly, he is Iudge of the fitnesse of such as are presented unto him to be instituted into benefices, <hi>Cok. Rep.</hi> 5. <hi>Specots. cap.</hi>
+            </p>
+            <p>Ministerial; and thereby he is to sacred places Dedicate to Di<g ref="char:EOLhyphen"/>vine service. 9. H. 6.17. p. 8. Secondly, he is to provide for the officiating of cures in the avoydance of Churches on neglect of the Patrons presenting thereunto. Thirdly, he is to certifie loyall Matrimony, generall bastardy and excommunication. Fourthly, to execute judgements given in <hi>quare impedit,</hi> upon the writ <hi>Ad ad<g ref="char:EOLhyphen"/>mittendum Curicum,</hi> and other, &amp;c.</p>
+            <p>Fifthly, to attend upon tryals of life, to report the sufficiency or insufficiency of such as demand Clergy. Sixthly, to ordaine Deacons and Presbyters.</p>
+            <p>All these I conceive to be <hi>Iure humano,</hi> given to these Bishops, and may upon cause be taken away from them.</p>
+            <p>Bishops have been in the primitive Church,<note place="margin">Ob.</note> and are Aposto<g ref="char:EOLhyphen"/>licall and from the beginning.</p>
+            <p>To this I answer, first, that in the pure primitive times of the Church,<note place="margin">Sol.</note> the history whereof is recorded in the Acts and Epi<g ref="char:EOLhyphen"/>stles of the Apostles, (in which the first and best patterns of Church government is expressed) there is no mention of other Bishops then the Presbyters, as appears.</p>
+            <p>First the holy Scriptures declare the duties and office of Pres<g ref="char:EOLhyphen"/>byters and Bishops to be one and the same. The Bishop is to teach and rule his Church or congregation, 1 <hi>Tim.</hi> 3.2.5. and the Presbyter is to teach and feed his flock, and to oversee, care for, and rule them, 1 <hi>Pet.</hi> 5.2.3.</p>
+            <p n="2">2. The Presbyters are in holy Scriptures, said to be the Bishops of the Holy Ghost. <hi>Act.</hi> 20.28. <hi>Paul</hi> charges the Pres. of <hi>Ephesus</hi> to take heed to the flock wherof the holy Ghost had made them Bishops. And other Bishops the holy Ghost never made.</p>
+            <p n="3">3. <hi>Ephs.</hi> 4.11. God is said to have given to his Church for the perfecting of the S<seg rend="sup">ts</seg>. for the work of the Ministery, and for the edifying of the body of Christ, Apostles, Prophets, Evan<g ref="char:EOLhyphen"/>gelists,
+<pb n="5" facs="tcp:41157:3"/>Pastors and Teachers, here is an expresse enumeration of the officers God hath given, whereof the first 3. are extraor<g ref="char:EOLhyphen"/>dinary &amp; ceased: and the last onely remaines, and is to remaine untill we all come to perfection, as it is, v. 13. and this perpetuall officer is called Pastor, in relation to his flock whom he is to go<g ref="char:EOLhyphen"/>verne in <hi>Spiritual has,</hi> and Teacher in respect of his duty to seed them with the word or truth &amp; is the very same with the Pres<g ref="char:EOLhyphen"/>byter, as appeares above. <hi>Argumen<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um a divisione est fort<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssimum.</hi> The Bishop as he is any more then a Presbyter is none of these, no officer given by God, &amp; therfore ought not to be in the Church Christ the King of his Church was faithfull in his house, not only as a servant as <hi>Moses</hi> was but as the son in an excellency &amp; eminency, <hi>Heb.</hi> 3.5. and to his kingly office it pertaines to appoint the officers he wil use for the government of his Church in <hi>spiri<g ref="char:EOLhyphen"/>tualibus,</hi> and it agrees not with his faithfulnes to neglect or omit the appointment of them, and leave his horse his Church with<g ref="char:EOLhyphen"/>out such officers. He is only wise &amp; therefore best knows what officers are useful for his Church, and infinitly loving of his Chu. &amp; therfore hath not left her, without any officer fit for her.</p>
+            <p>
+               <hi>Titus</hi> in the end of <hi>Pauls</hi> Epistle unto him is said to be the first Bishop of <hi>Creet.</hi> and <hi>Timothy</hi> in the end of the Epistles unto him,<note place="margin">Ob.</note>
+               <note place="margin">Sol.</note> to be the first Bishop of <hi>Ephesu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p>Those addition are sprefluous, and no part of the holy Scrip<g ref="char:EOLhyphen"/>tures &amp; as <hi>Beza</hi> observes are not in many Greek ancient coppies to be found and this is so evident as it is granted<note n="*" place="margin">Perk. up<g ref="char:EOLhyphen"/>on Gal. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>in fine.</hi>
+               </note> by most Di<g ref="char:EOLhyphen"/>vines. 2. And as they be no part of the Scriptures of God, so they be apparantly contrary unto them for by them it appears, that they, namly <hi>Titus</hi> &amp; <hi>Timothy</hi> were Evangelists extraordinary offi<g ref="char:EOLhyphen"/>cers associats, and fellow helpers o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Apostles in their general and universall function attendant upon them. and sent by them (as occasion required) from one Church to another never keep<g ref="char:EOLhyphen"/>ing any fixed residence any where<note n="*" place="margin">For Tim. See Cor. 4.17 &amp; 16.10. Acts 1.7 <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3.15. &amp; 19.22. &amp; 20.4, 5. 1 Thes. 3. 1.6. Heb. 1.25. Col. 1.1. Phil 1.1. &amp; 2.19. For Titus See 2 Cor. 7.13. &amp; 8.6.16.23. &amp; 12.18. Gal. 2.1. 2 Tim. 4.10 Tit. 1.5. &amp; 3.12.</note> and if they had bin Bishops of any place, <hi>Paul</hi> would never have suffered, much lesse forced them to be non-residents. S. <hi>Iohn Rev.</hi> 12.3. writing to the 7 Chur<g ref="char:EOLhyphen"/>ches of <hi>Asia</hi> directs his speech to the Angel of each Church &amp; in each of thos<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Churches there were then several congregations &amp; Presbyters, therefore the Angel was the Bishop over them.</p>
+            <p>To this I answer that as Angel is a name common to all Pres<g ref="char:EOLhyphen"/>byters who are Christs messengers &amp; ambassa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors: So it appears to be used here by the very context c. 2. v. 10. Where speaking to the Angel of the Church of <hi>Smyrna</hi> the holy Ghost saith <hi>Hear<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> none of the things thou shalt suffer, the Devil shall cast some of you into pr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son, but be thou faithful, &amp;c.</hi> Angel (being <hi>nomen multitudinis</hi>) is taken in these chapters collectively for all Presbyters (some of whom the
+<pb n="6" facs="tcp:41157:4"/>adversaries should imprison,) and not for any one above or be<g ref="char:EOLhyphen"/>fore the rest. The same appears in the like manner, v. 13.23.</p>
+            <p>Seeing then the Episcopacy may be taken away in all, wherein it exceeds the Presbyters office, and that the office of the Pres<g ref="char:EOLhyphen"/>byter is clearely <hi>jure divino;</hi> I conceive we are first to restore the Presbyter to his due, and to him it belongs to teach and reed his flock, and to oversee, care for, and rule them in <hi>spiritualibus Act</hi> 20.17. 1 <hi>Tim.</hi> 3.2.5. 1 <hi>Pet.</hi> 5.2, 3. So saith the holy Scripture.</p>
+            <p>And so saith our Law also. He is to minister the doctrine and the Sacraments, and the discipline of Christ, as the Lord hath commanded, and as this Realme hath received the same accor<g ref="char:EOLhyphen"/>ding to the commandements of God: See the Book of ordering of Priests in the 3 question. And he is called in our Law, <hi>Rector Ecclesiae,</hi> and the words of his Institution be, <hi>Te rectorem Ecclesiae in<g ref="char:EOLhyphen"/>stipu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mus, curamque &amp; regimen animarum parochianorum tibi in Domino com<g ref="char:EOLhyphen"/>mittimus.</hi>
+            </p>
+            <p>The Bishops have taken by usurpation from the Presbyter di<g ref="char:EOLhyphen"/>vers rights: first, contrary to his Ordination and Institution; they will not suffer him to preach in his owne cure without a Licence.</p>
+            <p>Secondly, they restraine him from preaching some doctrines, as of predestination and others that overthrow Arminian te<g ref="char:EOLhyphen"/>nets, when his faithfulnesse in his office requires he should keep nothing back, but to shew them all the counsell of God, <hi>Act.</hi> 20, 27.<note n="*" place="margin">This is read to the Presbyter upon his ordination and his charge then given him is remark<g ref="char:EOLhyphen"/>able, See the booke of Order<g ref="char:EOLhyphen"/>ing Priests.</note> Thirdly, they wil not suffer him to intermeddle in the dis<g ref="char:EOLhyphen"/>cipline. These usurpations I conceive are to be taken away, and the Presbyter to be left free from them.</p>
+            <p>Secondly, for the Episcopacy I conceive, that first their Baro<g ref="char:EOLhyphen"/>nies and the intermedling of the Clergy in civil counsels, affairs and imployments, ought to be taken from them.</p>
+            <p>First, I conceive such bapp. and intermedling is against the Law of God, Christ refused to intermeddle in dividing inhe<g ref="char:EOLhyphen"/>ritances (though more able and fit for it then any Bishop) <hi>Luke</hi> 12.13. and saith his Kingdome is not of the world, <hi>Iohn</hi> 18.36. and the Disciple is not above his Master, <hi>Mat.</hi> 10.24. and <hi>Act.</hi> 6. The Apostles refuse to intermeddle in the Deacon or Church-wardens office, though of all earthly imployments the neerest to the Church, and the reason they give is remarkable for this purpose, because they were to attend to prayer, and administra<g ref="char:EOLhyphen"/>tion of the word, and therefore not meet for them to attend such secular matters, and 2 <hi>Tim.</hi> 2.4. the Apostle layes downe a rule in this case, that <hi>nemo se militans Deo implicat negotiis hujus seculi,</hi> &amp; up<g ref="char:EOLhyphen"/>on this ground, even the Popes Canon-lawes are against these things, as inconsistent with the ministeriall function. And the
+<pb n="7" facs="tcp:41157:4"/>due execution of the Commission, Go preach and baptize, is of it selfe burthen and worke enough for any man whatsoever his gifts and parts be, and made <hi>Paul</hi> though of a more excellent and able spirit, cry out under the sense of the waight of it, Who is sufficient for these things? 2 <hi>Cor.</hi> 2.16.</p>
+            <p>
+               <note place="margin">Non est con<g ref="char:EOLhyphen"/>sonum quod ille qui sa<g ref="char:EOLhyphen"/>lubri status animarum &amp; piis ope<g ref="char:EOLhyphen"/>ribus conti<g ref="char:EOLhyphen"/>nue deser<g ref="char:EOLhyphen"/>vit ad in<g ref="char:EOLhyphen"/>sistendum in secularibus negotiis cō<g ref="char:EOLhyphen"/>pellatur. Vide <hi>the Writ.</hi>
+               </note>Secondly, it is against the fundamentell Lawes of this Land, whereby they that are within holy Orders, that they may the better attend upon, and discharge their duties, are not to be in<g ref="char:EOLhyphen"/>tangled with temporall businesse, and therefore if any such be chosen to any temporall office, the Law hath ordained a Writ to discharge them thereof, <hi>Reg.</hi> 187.6.</p>
+            <p>The King may command the service of men in orders, and then it is to be given him by naturell allegiance.</p>
+            <p>This rule admits two exceptions, and both are in this case: first, except the service from that person be against the Law of God as here it is, and then it is better obey God then man, in <hi>paesen<g ref="char:EOLhyphen"/>tia majoris cessat potestas minor is.</hi>
+            </p>
+            <p>Secondly, if the service concerne the Common-wealth, and the person of whom it is required, be not sufficient for it, nor brought up unto it, the command is against Law, and the ser<g ref="char:EOLhyphen"/>vice not to be done, if the King grant the office of the Clarke of the Crowne to one not brought up to it, it is voyd and the ser<g ref="char:EOLhyphen"/>vice not to be intermedled withall by him 9. <hi>Ed.</hi> 4.56. <hi>Wint.</hi> case.</p>
+            <p>Secondly, that part of the Bishops spirituall office by which he claimeth superiority over Presbyters ought to be taken as I conceive from them as being against the will of God.</p>
+            <p>The Apostles questioning among themselves which should be the superiour, are sharply reproved by our Saviour for it, and he tels them plainely it shall not be so among them, <hi>Mar.</hi> 30.42. <hi>Luk</hi> 22.25. and <hi>Diotrophes,</hi> 3 <hi>Ioh.</hi>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. is branded for it that he sought preheminence in the Church. The mysterie of iniquity in the Popish Hierarchy, in the Presbyters exalting themselves, began to work * in the purest primitive times, (as we see in <hi>Diotrophes</hi> and <hi>Peters</hi> caveat. 1 <hi>Pet.</hi> 5.3.) and never left till it came to the Pope, the highest degree and top thereof; By which it seemes to me evident, that to leave the patterne of Church government set down in the word of God, to follow the examples of after ages upon a false cry of primitive times, is to forsake the pure fountaine, and wallow in the muddy and corrupted streames of antichristian ambition.</p>
+            <p>Thirdly, that part of the spirituall office of the Bishop where<g ref="char:EOLhyphen"/>by he is to instruct the people committed to his charge, with the holy Scriptures, as upon the 2. question put unto him at his con<g ref="char:EOLhyphen"/>secration, he undertakes to doe ought (as I conceive) to be re<g ref="char:EOLhyphen"/>duced
+<pb n="8" facs="tcp:41157:5"/>to a possibility for him to person he it. It is imposible for him to do it to a whole Diocesse, therfore he should be limited to some particular congregation unto which he might performe this trust which requires sufficiency attendance and diligence.</p>
+            <p>Fourthly Ordination in the Scriptures is ever expressed to be by them in the Church, that had authority and were officers in the Church as Apostles,<note n="*" place="margin">Acts 14.23.</note> Evangelists<note n="*" place="margin">Tit 1.5, 6, 7. 1 Tim. 4.<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 2 Tim. 1.6.</note> and after by the Presbytery. And a shadow of this remains in our Law, for the Bishop only is not to lay hands upon the party to be ordained but the Presbyters there attending<note n="*" place="margin">Boo<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of ordering Priests.</note> are to joyne with the Bishop therein. This I con<g ref="char:EOLhyphen"/>ceive is not in to be in the hands of any one ordinary officer in the Church, the discerning of the gifts abilities &amp; faithfulnes of per<g ref="char:EOLhyphen"/>sons to be ordained Presbyters requiring great judgment care, and circūspection. <hi>Plus vidēt oculi quā oculus.</hi> The like I say of deprivation.</p>
+            <p>Fifthly Excommunication by the scriptures ought to be only in case of enormous offences and obstinacy in them, and onely in the con<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tion whereof the party to be excommunicate is a member 1. <hi>Cor</hi> 5.4. Tell the Church cannot be meant of one man, <hi>Mat.</hi> 18.17. <hi>D<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>roph<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> is branded for taking upon him alone to cast any out of the Church. This also abused as well as usurped by the Bishop is to be reformed.</p>
+            <p>Sixtly, Institution and induction are usurped by the Bishops up<g ref="char:EOLhyphen"/>on the fundamentall Lawes or this Kingdome, by which the Pa<g ref="char:EOLhyphen"/>tron after his Clerk was ordained, did without any more invest him into the Church. See <hi>Selden</hi> of tithes 86. And a relick of this we retaine still in Churches that be donatives.</p>
+            <p>Seventhly The jurisdiction of tithes, causes matrimoniall, and causes testamentary in the times of the increasing power of the Pope when the Bishops therby grew more formidable were taken from the civill Magistrate to whom originally they belonged, up<g ref="char:EOLhyphen"/>on pretence, that the tithes were <hi>Iured vino</hi> the Churches patrimo<g ref="char:EOLhyphen"/>ny and marriage a Sacrament and that the disposing the goods of the dead, most properly belonged to him for the good of the soule in purgatory to redeeme it thence, to whom the cure of the soule appertained in his life time, <hi>Videz.</hi> 2. <hi>R.</hi> 3. <hi>Testaments</hi> 4.11. <hi>H.</hi> 7.12. <hi>B. Plow den</hi> 279. <hi>B. Foxes c. Cok rep.</hi> 9 37. <hi>B. Housloes case. Dames rep.</hi> 97. <hi>B. Lalors. Selden</hi> of tithes. 415.</p>
+            <p>Eighthly, The matters which are meerely and only spirituali, (which are properly of Ecclesiasticall conizance) were antiently by the Lawyers of this Kingdome heard and determined in the county and hundred courts by the Sheriffe and the Bishop, and by <hi>William</hi> the Conqueror these matters were taken thence and appro<g ref="char:EOLhyphen"/>priated to the Bishop alone. 2 <hi>R.</hi> 2 <hi>Rotul.</hi> Parliament, <hi>num.</hi> 12. <hi>Selden</hi> of tithes 412. Book of Martyrs, 154.</p>
+            <pb n="9" facs="tcp:41157:5"/>
+            <p> And by the Law of God (as I conceive) they ought to be heared and determined by them that have rule in the particular congregations and Churches, <hi>Mat.</hi> 18.17. 1 <hi>Cor.</hi> 5. which if it were so among us would be a worderfull case, and save great charges to the subject.</p>
+            <p>And where the difficulty of case or greatnesse of the persons whom it may concerne, or where the Governours in particular Congrega<g ref="char:EOLhyphen"/>tions demeane not themselves as they ought, it ought to be referred to a Synod of Presbyters, so many as shall be thought meet, as <hi>Acts</hi> 15. a question of difficulty arising in the particular Church of <hi>Antioch</hi> and the dissention growing great about the same, they sent to <hi>Hierio<g ref="char:EOLhyphen"/>salem,</hi> and there the Apostles and Presbyters convened debated, con<g ref="char:EOLhyphen"/>cluded, and decreed the matter, and imposed the observation thereof upon <hi>Antioch</hi> and other Churches, ver. 1.2.6.28. The Apostles would not meddle in the question without the Presbyters and other Bishops, there were none there nor in the Churches. And <hi>faelicius exp<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dinutur negotia commissa pluribus,</hi> in the multitude of Counsellors, there is safety, <hi>Proverb.</hi> 11.14.</p>
+            <p>And the change of our Laws (in case this House shall see cause for it) will not be so great difficulty as is conceived by some. For Ordina<g ref="char:EOLhyphen"/>tion, admonition, suspention and deprivation of Presbyters, and the judgment of the fitnesse of persons to be invested into Benefices Ec<g ref="char:EOLhyphen"/>clesiasticall, and the care of providing for the serving of Cures du<g ref="char:EOLhyphen"/>ring the vacancy and avoydance of Churches, and the taking of the subscription of Ministers to the Articles of Religion,<note n="*" place="margin">13. <hi>Eli<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> c.</hi> 12.</note> and the visi<g ref="char:EOLhyphen"/>ting of Hospitals, whose founders have appointed novis<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, which are now<note n="*" place="margin">14 <hi>Eli<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> cap.</hi> 5.</note> in the Bishop, may be settled in a convention of Presbyters, to be appointed for every hundred, from whom appease may be had upon every gravamen to a greater Assembly of them, and those Pres<g ref="char:EOLhyphen"/>byters, or any one of them, may be inabled to give the oaths of Supre<g ref="char:EOLhyphen"/>macy &amp; alleageance, where the Bishop is authorited to give the same.<note n="*" place="margin">5 <hi>Eliz. <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</hi> 7. <hi>Iac. c.</hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> And Excommunication may be ordered to be certified by the Par<g ref="char:EOLhyphen"/>son, Vicar or Stipendary of that Church where the party in excommu<g ref="char:EOLhyphen"/>nicate. And all Churches presentative, may be filled by investure of the Patrons, and all questions concerning them be determined by the same rules of Law as Donatives are, And loyall Matrimony be tryed by a Jury where the woman is party to the fu<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e, as now it is where she is not party, so <hi>E.</hi> 3.15. p. 5. 1. <hi>H.</hi> 4.4. Bp. 30. and as it is now, where the issue is <hi>Nient sa femme,</hi> 12. <hi>E.</hi> 3. Briefe 481.50. <hi>E.</hi> 3.15. B. 7. <hi>H.</hi> 6.12. June 35. <hi>H.</hi> 6.9. <hi>P.</hi> 10. <hi>C<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>oke</hi> 8. <hi>E.</hi> 4.12.2 <hi>Laron.</hi> And
+<pb n="10" facs="tcp:41157:6"/>Bastardy generall and Bastardy, beyond Sea, within the Statute, 25. <hi>E.</hi> 3. <hi>De natis ultra more,</hi> May be made tryable by Jury, as now spe<g ref="char:EOLhyphen"/>cyall Bastardy is 11. Ass. 20.38. ass. 24.39. <hi>E.</hi> 3.31.6. &amp; 7. <hi>Ed.</hi> 6. <hi>Dier.</hi> 70. B. 52. So tithes may be reduced to the common Law and be sued, for there, as it was ever in the case of the King or his debtor 38. ass. 20. <hi>Cok<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e.</hi> 5.16. a <hi>Cawdreis</hi> case, and as it is by the State of 2. and 3. <hi>E.</hi> 6. cap. 13. And for the Bishops attendance on tryals of life, it is need<g ref="char:EOLhyphen"/>lesse he being no Judge in it, but the Court, who may appoint any o<g ref="char:EOLhyphen"/>ther, or doe it themselves. And for Sacring of Churches and other dead things, it is fit to be neglected and left off, being a Popish vaine superstition, and without colour of countenance from the word of God, the Leviticall consecrations being typicall and shaddowes of the good things we enjoy under the Gospel, <hi>Heb.</hi> 9.19, &amp;c.</p>
+            <p>The Bishop being thus reformed and reduced to a condition and state agreeable to the word of God (the onely right<note n="*" place="margin">25. Exo. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.40. Chro. 28 1.19. Ezek. 43.<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>0. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cor. 4.6.</note> rule of refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>The Deanes Chapters, Vicars Generall, Chancellors, and the rest of his Trayne, <hi>qua tales</hi> (being <hi>telluris inutile pondus</hi>) are to be removed and taken away also as superfluous and uselesse.</p>
+            <p>We have intrusted the Episcopacy these fourescore and two yeares with the cure of soules, a trust of the highest concernment, if we con<g ref="char:EOLhyphen"/>sider the price of our soules, Our Saviour is at a stand in it, <hi>What shall a man give in recompence for his soule?</hi>
+               <note n="*" place="margin">Mat. 16.6.</note> the price of it is best seene in the price given for it, God &amp; man must become a curse to redeem it.</p>
+            <p>How have they discharged this trust? Survay the Churches through<g ref="char:EOLhyphen"/>out the Kingdome, and you shall find neer eight parts of tenne of them filled with Idoll, idle, or scandalous Ministers, whom the Bishops might have by law refused, if discovered unto them before hand, and ought to have removed being discovered unto them afterward. And it hath abundantly appeared this Parliament upon examinations taken in this House of Commons and the Committes thereof; that when Ministers extreamely scandalous, have beene discovered to the Bi<g ref="char:EOLhyphen"/>shops and their officers, and in the High-commission Court, they have received no further censure then admonition, or to be put to purgati<g ref="char:EOLhyphen"/>on, and so be sent home to destroy more soules, as if they had not done sufficiently in that way before.</p>
+            <p>But if any godly, learned, painfull Preacher have beene discover<g ref="char:EOLhyphen"/>ed by them, they have sought out all occasions against such, to thrust them out of the Church, and lay their Congregations waste and deso<g ref="char:EOLhyphen"/>late,
+<pb n="11" facs="tcp:41157:6"/>and every trifle, though indifferent in their owne account, hath beene made use of, and sufficell them for this; yea, they have made occa<g ref="char:EOLhyphen"/>sions and traps to overthrow such worthies without Law, and against Law.</p>
+            <p>And herein they have inherited the vertues of <hi>Diotrephes</hi> their first pre<g ref="char:EOLhyphen"/>decessor, who would not receive the brethren, &amp; forbad them that would, and cast both out of the Church, <hi>John</hi> 3.10.</p>
+            <p>And though some of the Bishops have bin, and are good men, yet look into their Diocesse, and the Churches in their gift, and judge whether they be good Bishops or no; you shall finde them as faulty concerning this great trust, as any of the rest. And whether it bee not from hence evident, or at least greatly to be suspected, that some curse cleaves to the very office of Bishops, when good men cannot manage it to any bet<g ref="char:EOLhyphen"/>ter purpose then the bad; let any man judge.</p>
+            <p>This spirituall Monarchy hath two incidents inseperable unto it; first, that it is alwayes incroaching and usurping upon other powers, and swallowing them up, as the <hi>series</hi> of all ages aboundantly manifests. Secondly, that it is ever inclining to Popery, and the religion of Anti<g ref="char:EOLhyphen"/>christ, as hath most clearely appeared, even in our dayes, aswell as be<g ref="char:EOLhyphen"/>fore, since the restoring of Religion; I shall for this time instance onely in three places of the Rubrick, corrupted by Bishops: In the Rubrick confirmed by Act of parliament, in the beginning of it, It is directed, that prayer shall bee in such place of the Church or Chancell, and the Minister shall so turne him, as the people may best heare.</p>
+            <p>In the Rubrick as it is now printed, prayer shal be used in the accusto<g ref="char:EOLhyphen"/>med place, &amp;c. except it shal be otherwise determined by the Ordinary.</p>
+            <p>Whereby they have introduced the popish practice of reading pray<g ref="char:EOLhyphen"/>ers at the upper end of the Chancell at their Altar, where few in the Church can see them, and sewer heare them; and of turning their faces to the East, and their backs to the people in reading in the Deske, and colour all with the determination of the Ordinary.</p>
+            <p>Secondly, in the Letany there are these words in the Booke of Com<g ref="char:EOLhyphen"/>mon-prayer confirmed by the Statutes of 5. and 6. <hi>Ed.</hi> 6. and of 1. <hi>Eliz.</hi> From the tyranny of the Bishop of <hi>Rome,</hi> and all his detestable enormi<g ref="char:EOLhyphen"/>ties, good Lord deliver us: and that the Bishops in the latter bookes have caused to be left out wholly.</p>
+            <p>Thirdly, in the Rubrick concerning he administration of the L. Sup<g ref="char:EOLhyphen"/>per, as it stands now altered, an excellent declaration of the reason why kneeling at the Sacrament was left in the reformation, and a renunciati<g ref="char:EOLhyphen"/>on
+<pb n="12" facs="tcp:41157:7"/>of Transubstantiation, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> substantiation, adoration of the bread and wine, as abominable Idolatries, are wholly obliterate and lest out, that the use of that gesture there might be rendred the more suspitious and superstitious, and a more cleare way might be made to induce the popish superstitious innovations, that have beene since obtruded upon us, con<g ref="char:EOLhyphen"/>cerning the Table, Altar, supereminent presence of God Almighty there, cringings, Altar-worship, and the like. And I conceive these alterati<g ref="char:EOLhyphen"/>ons were made by the Bishops, as appeares unto me by the proclama<g ref="char:EOLhyphen"/>tion they procured to be set forth 5. Martii, 1. <hi>Jaeob.</hi> concerning the booke of Common-prayer.</p>
+            <p>And how can things prosper better in the hands of the Episcopacy, when Gods blessing alone giveth out prosperity, and the Lord disposeth his blessing in his owne way onely, and not in any other.</p>
+            <p>And this being no plant planted by God in his Church, how can it be expected it should yeeld us any better fruits then wee have receved from it.</p>
+            <p>Againe, (if I be not much deceived) the Episcopacy in whatsoever it exceeds the Presbyters Office (in which sence onely I speake of it) is a branch of the Hierarchie of <hi>Rome,</hi> and of the Antichrist: and of that consider what is prophesied, <hi>Revel.</hi> 14.11. They shall not have any rest day nor night, that receive any print of the name of the Beast, and ex<g ref="char:EOLhyphen"/>amine the former and present times; whether the same hath not been ve<g ref="char:EOLhyphen"/>rified among us, and in all such places where that Hierarchie hath been entertained, whether the most troubles and miseries of the Churches, and in great part also of the Common-wealth, have not sprung from the said Episcopacy, and the fruit thereof.</p>
+            <p>Therefore let us proceed to the perfecting of the reformation of our Church, and to the gathering out of it every stone that offends, even whatsoever is not according to God, and the standard of his Word, and reduce every thing in the Government to the rule, and walk in it in Gods way, which is the sure way to have his presence with us, and blessing upon us and ours for ever.</p>
+            <p>It hath ever beene a point of higher honour from God, and of greater acceptance and esteeme with him to advance † the reformation of his Church and worship; and was and ever will be a reproach from him, and blot upon such as have left any thing not agreeable to his Word unre<g ref="char:EOLhyphen"/>formed<note n="*" place="margin">Cro. 7.6. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 31 1. 1 Kin. 5.12. 2 Kin. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.3. 1 Cro. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 16. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.7.</note> and not taken away; up then, let us be doing, † and the Lord will goe before us, and make plaine all mountaines * that may occurre in our way, and give a blessed issue and successe.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41157:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
